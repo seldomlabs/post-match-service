@@ -19,7 +19,7 @@ let io;
 
 // Function to initialize Redis
 async function connectRedis() {
-    pubClient = createClient({ url: "redis://localhost:6379", socket: {
+    pubClient = createClient({ url: process.env.REDIS_URL, socket: {
         reconnectStrategy: (retries) => {
             console.warn(`Redis reconnect attempt #${retries}`);
             return Math.min(retries * 1000, 5000); 
@@ -64,11 +64,13 @@ async function startServer() {
 
     connectToDatabase();
 
-    // Middleware for JSON parsing
     app.use(express.json());
 
-    // Initialize WebSocket server
     initializeSocket(io);
+
+    app.get("/health", (req, res) => {
+        res.status(200).json({ status: "WebSocket server is running" });
+      });
 
     app.post("/broadcast", async (req, res) => {
         const { meetId, radius} = req.body;
@@ -102,7 +104,7 @@ async function startServer() {
       });
 
     // Start HTTP server
-    const PORT = process.env.PORT || 8002;
+    const PORT = process.env.PORT || 8001;
     server.listen(PORT, () => {
         console.info(`Server running on port ${PORT}`);
     });
