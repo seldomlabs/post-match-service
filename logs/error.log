@@ -1,0 +1,38 @@
+2025-05-03 14:24:22:2422 [31merror[39m: [31mRedis Publisher Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+2025-05-03 14:24:22:2422 [31merror[39m: [31mRedis Subscriber Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+2025-05-03 14:24:22:2422 [31merror[39m: [31mRedis Publisher Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+2025-05-03 14:24:22:2422 [31merror[39m: [31mRedis Subscriber Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+2025-05-03 14:24:23:2423 [31merror[39m: [31mRedis Publisher Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+2025-05-03 14:24:23:2423 [31merror[39m: [31mRedis Subscriber Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+2025-05-03 14:25:04:254 [31merror[39m: [31mRedis Publisher Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+2025-05-03 14:25:04:254 [31merror[39m: [31mRedis Subscriber Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+2025-05-03 14:25:04:254 [31merror[39m: [31mRedis Publisher Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+2025-05-03 14:25:04:254 [31merror[39m: [31mRedis Subscriber Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+2025-05-03 14:25:05:255 [31merror[39m: [31mRedis Publisher Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+2025-05-03 14:25:05:255 [31merror[39m: [31mRedis Subscriber Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+2025-05-03 14:25:07:257 [31merror[39m: [31mRedis Publisher Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+2025-05-03 14:25:07:257 [31merror[39m: [31mRedis Subscriber Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+2025-05-03 14:25:10:2510 [31merror[39m: [31mRedis Publisher Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+2025-05-03 14:25:10:2510 [31merror[39m: [31mRedis Subscriber Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+2025-05-05 12:56:02:562 [31merror[39m: [31mError creating system message: Message validation failed: data: Message data is required[39m
+2025-05-05 12:56:02:562 [31merror[39m: [31mError handling socket connection: Failed to create system message[39m
+2025-05-05 12:58:44:5844 [31merror[39m: [31mError in createOrJoinRoom: this.roomRepository.updateUserCoordinates is not a function[39m
+2025-05-05 12:58:44:5844 [31merror[39m: [31mError handling socket connection: Failed to create or join room[39m
+2025-05-05 12:58:46:5846 [31merror[39m: [31mError in createOrJoinRoom: this.roomRepository.updateUserCoordinates is not a function[39m
+2025-05-05 12:58:46:5846 [31merror[39m: [31mError handling socket connection: Failed to create or join room[39m
+2025-05-05 13:55:46:5546 [31merror[39m: [31mRedis Subscriber Error: read ETIMEDOUT[39m
+2025-05-07 16:55:44:5544 [31merror[39m: [31mFailed to connect to MongoDB: querySrv ETIMEOUT _mongodb._tcp.gomegle.4zje4jt.mongodb.net[39m
+2025-05-07 17:19:04:194 [31merror[39m: [31mError: Cannot read properties of undefined (reading 'getChatInfo')[39m
+[31mStack: TypeError: Cannot read properties of undefined (reading 'getChatInfo')[39m
+[31m    at /Users/ishan/chat-service/src/api/routes/chatRoutes.js:9:63[39m
+[31m    at Layer.handle [as handle_request] (/Users/ishan/chat-service/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at next (/Users/ishan/chat-service/node_modules/express/lib/router/route.js:149:13)[39m
+[31m    at Route.dispatch (/Users/ishan/chat-service/node_modules/express/lib/router/route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (/Users/ishan/chat-service/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at /Users/ishan/chat-service/node_modules/express/lib/router/index.js:284:15[39m
+[31m    at param (/Users/ishan/chat-service/node_modules/express/lib/router/index.js:365:14)[39m
+[31m    at param (/Users/ishan/chat-service/node_modules/express/lib/router/index.js:376:14)[39m
+[31m    at Function.process_params (/Users/ishan/chat-service/node_modules/express/lib/router/index.js:421:3)[39m
+[31m    at next (/Users/ishan/chat-service/node_modules/express/lib/router/index.js:280:10)[39m
+2025-05-07 20:26:00:260 [31merror[39m: [31mRedis Publisher Error: read ECONNRESET[39m
+2025-05-07 20:26:03:263 [31merror[39m: [31mRedis Subscriber Error: read ECONNRESET[39m

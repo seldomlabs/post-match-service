@@ -1,0 +1,204 @@
+2025-05-03 14:24:18:2418 [32minfo[39m: [32mLoading environment from /Users/ishan/post-match-service/.env.development[39m
+2025-05-03 14:24:22:2422 [32minfo[39m: [32mConnected to MongoDB successfully[39m
+2025-05-03 14:24:22:2422 [31merror[39m: [31mRedis Publisher Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+2025-05-03 14:24:22:2422 [31merror[39m: [31mRedis Subscriber Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+2025-05-03 14:24:22:2422 [33mwarn[39m: [33mRedis Publisher reconnecting...[39m
+2025-05-03 14:24:22:2422 [33mwarn[39m: [33mRedis Subscriber reconnecting...[39m
+2025-05-03 14:24:22:2422 [31merror[39m: [31mRedis Publisher Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+2025-05-03 14:24:22:2422 [31merror[39m: [31mRedis Subscriber Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+2025-05-03 14:24:23:2423 [33mwarn[39m: [33mRedis Publisher reconnecting...[39m
+2025-05-03 14:24:23:2423 [33mwarn[39m: [33mRedis Subscriber reconnecting...[39m
+2025-05-03 14:24:23:2423 [31merror[39m: [31mRedis Publisher Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+2025-05-03 14:24:23:2423 [31merror[39m: [31mRedis Subscriber Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+2025-05-03 14:25:01:251 [32minfo[39m: [32mLoading environment from /Users/ishan/post-match-service/.env.development[39m
+2025-05-03 14:25:04:254 [32minfo[39m: [32mConnected to MongoDB successfully[39m
+2025-05-03 14:25:04:254 [31merror[39m: [31mRedis Publisher Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+2025-05-03 14:25:04:254 [31merror[39m: [31mRedis Subscriber Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+2025-05-03 14:25:04:254 [33mwarn[39m: [33mRedis Publisher reconnecting...[39m
+2025-05-03 14:25:04:254 [33mwarn[39m: [33mRedis Subscriber reconnecting...[39m
+2025-05-03 14:25:04:254 [31merror[39m: [31mRedis Publisher Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+2025-05-03 14:25:04:254 [31merror[39m: [31mRedis Subscriber Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+2025-05-03 14:25:05:255 [33mwarn[39m: [33mRedis Publisher reconnecting...[39m
+2025-05-03 14:25:05:255 [33mwarn[39m: [33mRedis Subscriber reconnecting...[39m
+2025-05-03 14:25:05:255 [31merror[39m: [31mRedis Publisher Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+2025-05-03 14:25:05:255 [31merror[39m: [31mRedis Subscriber Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+2025-05-03 14:25:07:257 [33mwarn[39m: [33mRedis Publisher reconnecting...[39m
+2025-05-03 14:25:07:257 [33mwarn[39m: [33mRedis Subscriber reconnecting...[39m
+2025-05-03 14:25:07:257 [31merror[39m: [31mRedis Publisher Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+2025-05-03 14:25:07:257 [31merror[39m: [31mRedis Subscriber Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+2025-05-03 14:25:10:2510 [33mwarn[39m: [33mRedis Publisher reconnecting...[39m
+2025-05-03 14:25:10:2510 [33mwarn[39m: [33mRedis Subscriber reconnecting...[39m
+2025-05-03 14:25:10:2510 [31merror[39m: [31mRedis Publisher Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+2025-05-03 14:25:10:2510 [31merror[39m: [31mRedis Subscriber Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+2025-05-03 14:28:03:283 [32minfo[39m: [32mLoading environment from /Users/ishan/post-match-service/.env.development[39m
+2025-05-03 14:28:05:285 [32minfo[39m: [32mConnected to MongoDB successfully[39m
+2025-05-03 14:28:05:285 [32minfo[39m: [32mConnected to Redis successfully[39m
+2025-05-03 14:28:05:285 [32minfo[39m: [32mSocket.io handler initialized[39m
+2025-05-03 14:28:05:285 [32minfo[39m: [32mServer running on port 8001[39m
+2025-05-03 15:29:34:2934 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-03 15:48:20:4820 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-03 15:56:32:5632 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-03 16:07:54:754 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-03 17:02:11:211 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-03 17:17:40:1740 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-03 17:31:50:3150 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-03 18:10:56:1056 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-03 18:14:48:1448 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-03 19:09:32:932 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-03 20:10:45:1045 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-03 22:34:05:345 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-03 23:07:43:743 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-03 23:15:45:1545 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-03 23:40:58:4058 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-04 04:06:48:648 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-04 11:05:03:53 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-04 11:12:01:121 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-04 12:13:01:131 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-04 12:21:39:2139 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-04 12:43:02:432 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-04 12:57:22:5722 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-04 13:08:29:829 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-04 13:11:23:1123 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-04 14:21:00:210 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-04 15:15:06:156 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-04 16:01:02:12 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-04 16:10:33:1033 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-04 16:16:16:1616 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-04 17:08:23:823 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-04 18:30:02:302 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-05 02:10:43:1043 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-05 02:24:15:2415 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-05 07:20:53:2053 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-05 07:27:41:2741 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-05 08:28:44:2844 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-05 08:44:13:4413 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-05 09:25:04:254 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-05 09:29:34:2934 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-05 10:30:42:3042 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-05 11:14:05:145 [32minfo[39m: [32mSIGINT signal received: closing HTTP server[39m
+2025-05-05 11:14:14:1414 [32minfo[39m: [32mLoading environment from /Users/ishan/post-match-service/.env.development[39m
+2025-05-05 11:14:16:1416 [32minfo[39m: [32mConnected to MongoDB successfully[39m
+2025-05-05 11:14:16:1416 [32minfo[39m: [32mConnected to Redis successfully[39m
+2025-05-05 11:14:16:1416 [32minfo[39m: [32mSocket.io handler initialized[39m
+2025-05-05 11:14:16:1416 [32minfo[39m: [32mServer running on port 8001[39m
+2025-05-05 11:37:08:378 [32minfo[39m: [32mSIGINT signal received: closing HTTP server[39m
+2025-05-05 11:37:13:3713 [32minfo[39m: [32mLoading environment from /Users/ishan/post-match-service/.env.development[39m
+2025-05-05 11:37:15:3715 [32minfo[39m: [32mConnected to MongoDB successfully[39m
+2025-05-05 11:37:15:3715 [32minfo[39m: [32mConnected to Redis successfully[39m
+2025-05-05 11:37:15:3715 [32minfo[39m: [32mSocket.io handler initialized[39m
+2025-05-05 11:37:15:3715 [32minfo[39m: [32mServer running on port 8001[39m
+2025-05-05 12:54:40:5440 [32minfo[39m: [32mSIGINT signal received: closing HTTP server[39m
+2025-05-05 12:54:44:5444 [32minfo[39m: [32mLoading environment from /Users/ishan/post-match-service/.env.development[39m
+2025-05-05 12:54:46:5446 [32minfo[39m: [32mConnected to MongoDB successfully[39m
+2025-05-05 12:54:48:5448 [32minfo[39m: [32mConnected to Redis successfully[39m
+2025-05-05 12:54:48:5448 [32minfo[39m: [32mSocket.io handler initialized[39m
+2025-05-05 12:54:48:5448 [32minfo[39m: [32mServer running on port 8001[39m
+2025-05-05 12:56:02:562 [32minfo[39m: [32mNew client connected: 1AsJD8ncFMfQYYD1AAAB[39m
+2025-05-05 12:56:02:562 [32minfo[39m: [32mCreated new room: room-meeting-abc for meeting: meeting-abc[39m
+2025-05-05 12:56:02:562 [32minfo[39m: [32mUser 4000 joined room meeting-abc[39m
+2025-05-05 12:56:02:562 [31merror[39m: [31mError creating system message: Message validation failed: data: Message data is required[39m
+2025-05-05 12:56:02:562 [31merror[39m: [31mError handling socket connection: Failed to create system message[39m
+2025-05-05 12:58:34:5834 [32minfo[39m: [32mSIGINT signal received: closing HTTP server[39m
+2025-05-05 12:58:38:5838 [32minfo[39m: [32mLoading environment from /Users/ishan/post-match-service/.env.development[39m
+2025-05-05 12:58:42:5842 [32minfo[39m: [32mConnected to MongoDB successfully[39m
+2025-05-05 12:58:42:5842 [32minfo[39m: [32mConnected to Redis successfully[39m
+2025-05-05 12:58:42:5842 [32minfo[39m: [32mSocket.io handler initialized[39m
+2025-05-05 12:58:42:5842 [32minfo[39m: [32mServer running on port 8001[39m
+2025-05-05 12:58:44:5844 [32minfo[39m: [32mNew client connected: qyrYOZu1S-bjHcwHAAAB[39m
+2025-05-05 12:58:44:5844 [31merror[39m: [31mError in createOrJoinRoom: this.roomRepository.updateUserCoordinates is not a function[39m
+2025-05-05 12:58:44:5844 [31merror[39m: [31mError handling socket connection: Failed to create or join room[39m
+2025-05-05 12:58:46:5846 [32minfo[39m: [32mNew client connected: 51xKt0oFIo0LbOYTAAAD[39m
+2025-05-05 12:58:46:5846 [31merror[39m: [31mError in createOrJoinRoom: this.roomRepository.updateUserCoordinates is not a function[39m
+2025-05-05 12:58:46:5846 [31merror[39m: [31mError handling socket connection: Failed to create or join room[39m
+2025-05-05 12:59:35:5935 [32minfo[39m: [32mSIGINT signal received: closing HTTP server[39m
+2025-05-05 12:59:38:5938 [32minfo[39m: [32mLoading environment from /Users/ishan/post-match-service/.env.development[39m
+2025-05-05 12:59:43:5943 [32minfo[39m: [32mConnected to MongoDB successfully[39m
+2025-05-05 12:59:43:5943 [32minfo[39m: [32mConnected to Redis successfully[39m
+2025-05-05 12:59:43:5943 [32minfo[39m: [32mSocket.io handler initialized[39m
+2025-05-05 12:59:43:5943 [32minfo[39m: [32mServer running on port 8001[39m
+2025-05-05 12:59:52:5952 [32minfo[39m: [32mNew client connected: d6WCOGbFL593Bar6AAAB[39m
+2025-05-05 12:59:52:5952 [32minfo[39m: [32mUpdated coordinates for user 4000 in meeting: meeting-abc[39m
+2025-05-05 12:59:52:5952 [32minfo[39m: [32mUser 4000 joined room meeting-abc[39m
+2025-05-05 13:05:38:538 [32minfo[39m: [32mNew client connected: 2_llq1ixd2CgdoRTAAAD[39m
+2025-05-05 13:05:38:538 [32minfo[39m: [32mUser 5000 joined room for meeting: meeting-abc[39m
+2025-05-05 13:05:38:538 [32minfo[39m: [32mUser 5000 joined room meeting-abc[39m
+2025-05-05 13:05:44:544 [32minfo[39m: [32mMessage from 4000 in room meeting-abc: [object Object][39m
+2025-05-05 13:05:44:544 [32minfo[39m: [32mMessage saved for room meeting-abc from sender 4000[39m
+2025-05-05 13:53:40:5340 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-05 13:53:42:5342 [32minfo[39m: [32mRemoved user 4000 from meeting: meeting-abc[39m
+2025-05-05 13:53:42:5342 [32minfo[39m: [32mClient disconnected: d6WCOGbFL593Bar6AAAB, user: 4000[39m
+2025-05-05 13:53:42:5342 [32minfo[39m: [32mRemoved user 5000 from meeting: meeting-abc[39m
+2025-05-05 13:53:42:5342 [32minfo[39m: [32mClient disconnected: 2_llq1ixd2CgdoRTAAAD, user: 5000[39m
+2025-05-05 13:55:46:5546 [31merror[39m: [31mRedis Subscriber Error: read ETIMEDOUT[39m
+2025-05-07 15:49:28:4928 [32minfo[39m: [32mLoading environment from /Users/ishan/post-match-service/.env.development[39m
+2025-05-07 15:49:30:4930 [32minfo[39m: [32mConnected to MongoDB successfully[39m
+2025-05-07 15:49:31:4931 [32minfo[39m: [32mConnected to Redis successfully[39m
+2025-05-07 15:49:31:4931 [32minfo[39m: [32mSocket.io handler initialized[39m
+2025-05-07 15:49:31:4931 [32minfo[39m: [32mServer running on port 8001[39m
+2025-05-07 16:41:13:4113 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-07 16:50:08:508 [32minfo[39m: [32mSIGINT signal received: closing HTTP server[39m
+2025-05-07 16:54:55:5455 [32minfo[39m: [32mLoading environment from /Users/ishan/post-match-service/.env.development[39m
+2025-05-07 16:55:44:5544 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-07 16:58:43:5843 [32minfo[39m: [32mLoading environment from /Users/ishan/post-match-service/.env.development[39m
+2025-05-07 16:58:46:5846 [32minfo[39m: [32mConnected to MongoDB successfully[39m
+2025-05-07 16:58:46:5846 [32minfo[39m: [32mConnected to Redis successfully[39m
+2025-05-07 16:58:46:5846 [32minfo[39m: [32mSocket.io handler initialized[39m
+2025-05-07 16:58:46:5846 [32minfo[39m: [32mServer running on port 8001[39m
+2025-05-07 17:08:00:80 [32minfo[39m: [32mLoading environment from /Users/ishan/chat-service/.env.development[39m
+2025-05-07 17:08:03:83 [32minfo[39m: [32mConnected to MongoDB successfully[39m
+2025-05-07 17:08:03:83 [32minfo[39m: [32mConnected to Redis successfully[39m
+2025-05-07 17:08:03:83 [32minfo[39m: [32mSocket.io handler initialized[39m
+2025-05-07 17:08:03:83 [32minfo[39m: [32mServer running on port 8001[39m
+2025-05-07 17:18:57:1857 [32minfo[39m: [32mHealth check request received[39m
+2025-05-07 17:19:04:194 [31merror[39m: [31mError: Cannot read properties of undefined (reading 'getChatInfo')[39m
+[31mStack: TypeError: Cannot read properties of undefined (reading 'getChatInfo')[39m
+[31m    at /Users/ishan/chat-service/src/api/routes/chatRoutes.js:9:63[39m
+[31m    at Layer.handle [as handle_request] (/Users/ishan/chat-service/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at next (/Users/ishan/chat-service/node_modules/express/lib/router/route.js:149:13)[39m
+[31m    at Route.dispatch (/Users/ishan/chat-service/node_modules/express/lib/router/route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (/Users/ishan/chat-service/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at /Users/ishan/chat-service/node_modules/express/lib/router/index.js:284:15[39m
+[31m    at param (/Users/ishan/chat-service/node_modules/express/lib/router/index.js:365:14)[39m
+[31m    at param (/Users/ishan/chat-service/node_modules/express/lib/router/index.js:376:14)[39m
+[31m    at Function.process_params (/Users/ishan/chat-service/node_modules/express/lib/router/index.js:421:3)[39m
+[31m    at next (/Users/ishan/chat-service/node_modules/express/lib/router/index.js:280:10)[39m
+2025-05-07 18:12:55:1255 [32minfo[39m: [32mSIGINT signal received: closing HTTP server[39m
+2025-05-07 18:13:00:130 [32minfo[39m: [32mLoading environment from /Users/ishan/chat-service/.env.development[39m
+2025-05-07 18:13:03:133 [32minfo[39m: [32mConnected to MongoDB successfully[39m
+2025-05-07 18:13:04:134 [32minfo[39m: [32mConnected to Redis successfully[39m
+2025-05-07 18:13:04:134 [32minfo[39m: [32mSocket.io handler initialized[39m
+2025-05-07 18:13:04:134 [32minfo[39m: [32mServer running on port 8001[39m
+2025-05-07 19:12:10:1210 [32minfo[39m: [32mSIGINT signal received: closing HTTP server[39m
+2025-05-07 19:12:15:1215 [32minfo[39m: [32mLoading environment from /Users/ishan/chat-service/.env.development[39m
+2025-05-07 19:12:19:1219 [32minfo[39m: [32mConnected to MongoDB successfully[39m
+2025-05-07 19:12:19:1219 [32minfo[39m: [32mConnected to Redis successfully[39m
+2025-05-07 19:12:19:1219 [32minfo[39m: [32mSocket.io handler initialized[39m
+2025-05-07 19:12:19:1219 [32minfo[39m: [32mServer running on port 8001[39m
+2025-05-07 20:25:38:2538 [33mwarn[39m: [33mMongoDB disconnected[39m
+2025-05-07 20:26:00:260 [31merror[39m: [31mRedis Publisher Error: read ECONNRESET[39m
+2025-05-07 20:26:00:260 [33mwarn[39m: [33mRedis Publisher reconnecting...[39m
+2025-05-07 20:26:03:263 [31merror[39m: [31mRedis Subscriber Error: read ECONNRESET[39m
+2025-05-07 20:26:03:263 [33mwarn[39m: [33mRedis Subscriber reconnecting...[39m
+2025-05-07 20:29:58:2958 [32minfo[39m: [32mNew client connected: J3yw0_15F3BwDaxWAAAB[39m
+2025-05-07 20:29:59:2959 [32minfo[39m: [32mUser 4000 joined room for meeting: meeting-abc[39m
+2025-05-07 20:29:59:2959 [32minfo[39m: [32mUser 4000 joined room meeting-abc[39m
+2025-05-07 20:30:01:301 [32minfo[39m: [32mNew client connected: O0arUsLdGNdnkBbhAAAD[39m
+2025-05-07 20:30:01:301 [32minfo[39m: [32mUser 5000 joined room for meeting: meeting-abc[39m
+2025-05-07 20:30:01:301 [32minfo[39m: [32mUser 5000 joined room meeting-abc[39m
+2025-05-07 20:30:11:3011 [32minfo[39m: [32mMessage from 4000 in room meeting-abc: [object Object][39m
+2025-05-07 20:30:11:3011 [32minfo[39m: [32mMessage saved for room meeting-abc from sender 4000[39m
+2025-05-07 20:30:29:3029 [32minfo[39m: [32mMessage from 4000 in room meeting-abc: [object Object][39m
+2025-05-07 20:30:30:3030 [32minfo[39m: [32mMessage saved for room meeting-abc from sender 4000[39m
+2025-05-07 20:31:31:3131 [32minfo[39m: [32mMessage from 4000 in room meeting-abc: [object Object][39m
+2025-05-07 20:31:31:3131 [32minfo[39m: [32mMessage saved for room meeting-abc from sender 4000[39m
+2025-05-07 20:31:38:3138 [32minfo[39m: [32mMessage from 4000 in room meeting-abc: [object Object][39m
+2025-05-07 20:31:38:3138 [32minfo[39m: [32mMessage saved for room meeting-abc from sender 4000[39m
+2025-05-07 20:31:44:3144 [32minfo[39m: [32mMessage from 4000 in room meeting-abc: [object Object][39m
+2025-05-07 20:31:44:3144 [32minfo[39m: [32mMessage saved for room meeting-abc from sender 4000[39m
+2025-05-07 20:31:50:3150 [32minfo[39m: [32mMessage from 4000 in room meeting-abc: [object Object][39m
+2025-05-07 20:31:50:3150 [32minfo[39m: [32mMessage saved for room meeting-abc from sender 4000[39m
+2025-05-07 20:32:00:320 [32minfo[39m: [32mMessage from 4000 in room meeting-abc: [object Object][39m
+2025-05-07 20:32:00:320 [32minfo[39m: [32mMessage saved for room meeting-abc from sender 4000[39m
+2025-05-07 20:32:19:3219 [32minfo[39m: [32mMessage from 4000 in room meeting-abc: [object Object][39m
+2025-05-07 20:32:19:3219 [32minfo[39m: [32mMessage saved for room meeting-abc from sender 4000[39m
+2025-05-07 20:36:24:3624 [32minfo[39m: [32mSIGINT signal received: closing HTTP server[39m
